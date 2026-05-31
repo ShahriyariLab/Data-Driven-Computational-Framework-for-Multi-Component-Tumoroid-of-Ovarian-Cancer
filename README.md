@@ -1,0 +1,1 @@
+This repository contains python code used to generate the figures and results presented in the manuscript: A Data-Driven Computational Framework for Multi-Component Tumoroid of High Grade Serous Ovarian Cancer Cells, Macrophages, and Mesenchymal Stem Cells
