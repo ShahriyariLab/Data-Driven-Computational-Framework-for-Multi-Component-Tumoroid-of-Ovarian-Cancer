@@ -1,0 +1,29 @@
+=== Estimated etaSM and etaMS for Tumor+MSC+M2 ===
+
+[OVCAR3]
+etaSM = -0.0696322592
+etaMS = -0.3006346204
+Success = True
+Message = `ftol` termination condition is satisfied.
+Cost = 0.7091575586
+RMSE = 0.5903417309
+Weighted RMSE = 0.5954651789
+Data vs model:
+t=0.0, data=0, model=0, residual=0
+t=1.0, data=1.37, model=1.618497941, residual=0.2484979411
+t=2.0, data=3.32, model=4.465783953, residual=1.145783953
+t=5.0, data=9.36, model=9.22056778, residual=-0.1394322204
+
+[OVCAR4]
+etaSM = 0.08106281916
+etaMS = 1.361609009
+Success = True
+Message = `ftol` termination condition is satisfied.
+Cost = 0.0006071586479
+RMSE = 0.01740994569
+Weighted RMSE = 0.01742352789
+Data vs model:
+t=0.0, data=0, model=0, residual=0
+t=1.0, data=0.3, model=0.3184627541, residual=0.01846275409
+t=2.0, data=0.45, model=0.4794963994, residual=0.02949639941
+t=5.0, data=1.38, model=1.378769566, residual=-0.00123043425

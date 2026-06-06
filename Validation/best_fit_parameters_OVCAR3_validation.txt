@@ -1,0 +1,26 @@
+=== Best-fit parameters for OVCAR3 ===
+      KT =  50
+      KS =  4.85965
+      KM =  14.1112
+    Vmax =  50
+     rho =  1.22477
+      rS =  0.879043
+      rM =  0.99387
+      dS =  0.502941
+      dM =  0.0554736
+   etaTS =  1.6506
+   etaST = -2.70125
+   etaMT = -4.98143
+      rT =  0.753007
+      dT =  5.03247e-34
+    beta =  8.26125
+     aTS =  34.8529
+     aTM =  3.80526
+   etaTM = -1.16454
+
+=== Fit summary ===
+Success: True
+Message: `ftol` termination condition is satisfied.
+Cost:    0.00179246
+Fit-set RMSE: 0.0172733
+Held-out Tumor+MSC+M2 RMSE: 0.658504
